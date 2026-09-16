@@ -9,7 +9,7 @@ Repositório unificado de atividades de **Inteligência Artificial** desenvolvid
 | [`IA/`](IA/) | Análise exploratória e visualizações da base de consumo de cerveja. |
 | [`IA_2/`](IA_2/) | Segmentação de clientes com K-Means. |
 | [`IA_3/`](IA_3/) | Reconhecimento facial com PCA e SVM usando a base ORL Faces. |
-| [`IA_4/`](IA_4/) | Espaço reservado para a quarta atividade; o repositório de origem não continha arquivos na branch `main`. |
+| [`IA_4/`](IA_4/) | Classificação de células infectadas por malária com rede neural convolucional. |
 
 Cada pasta tem um README próprio com detalhes sobre seu respectivo projeto. Os códigos foram reunidos a partir dos repositórios originais, preservados abaixo para referência histórica:
 
