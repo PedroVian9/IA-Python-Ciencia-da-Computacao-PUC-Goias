@@ -10,5 +10,3 @@ python main.py
 ```
 
 Execute o comando dentro desta pasta para que a base CSV seja encontrada.
-
-Origem: [aedPythonIA_2](https://github.com/PedroVian9/aedPythonIA_2).

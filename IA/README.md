@@ -10,5 +10,3 @@ python analise_cerveja.py
 ```
 
 Execute o comando dentro desta pasta para que a base CSV seja encontrada.
-
-Origem: [aedPythonIA](https://github.com/PedroVian9/aedPythonIA).

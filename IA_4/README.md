@@ -12,5 +12,3 @@ python main.py
 ```
 
 Execute o comando dentro desta pasta para que o conjunto `cell_images/` seja localizado.
-
-Origem: [aedPythonIA_4](https://github.com/PedroVian9/aedPythonIA_4).

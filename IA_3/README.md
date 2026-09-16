@@ -10,5 +10,3 @@ python main.py
 ```
 
 Execute o comando dentro desta pasta para que o diretório `orl_faces/` seja localizado.
-
-Origem: [aedPythonIA_3](https://github.com/PedroVian9/aedPythonIA_3).
